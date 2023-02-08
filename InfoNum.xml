@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InfoNum</name>
+    </assembly>
+    <members>
+        <member name="T:InfoNum">
+            <summary>
+            Classe geradora de informações referente a um número inteiro
+            </summary>
+        </member>
+        <member name="M:InfoNum.Info(System.Int32)">
+            <summary>
+            Função para gerar as informações
+            </summary>
+            <param name="n">Número para ser analizado</param>
+            <returns>string com as informações</returns>
+        </member>
+    </members>
+</doc>
