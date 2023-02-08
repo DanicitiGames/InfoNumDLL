@@ -1,13 +1,6 @@
-# InfoNumDLL
+# Esse é um rework do meu primeiro código em C#
 
- Escrito em 23/01/2021 resolvi reescrever do zero e preservando manter o resultado exatamente igual ao que o antigo programa iria apresentar. Converti para uma DLL para poder ser utilizado em outros projetos.
- 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **InfoNumDLL**
-| :label: Tecnologias | C#
-| :rocket: URL         | https://github.com/DanicitiGames/InfoNumDLL/
-| :fire: Curso     | https://cursos.alura.com.br/course/csharp-criando-distribuindo-bibliotecas-dotnet
+  Escrito em 23/01/2021 resolvi reescrever do zero e preservando manter o resultado exatamente igual ao que o antigo programa iria apresentar. Converti para uma DLL para poder ser utilizado em outros projetos.
 
 >As informações que a DLL fornecem é:
 >1. Raiz quadrada;
