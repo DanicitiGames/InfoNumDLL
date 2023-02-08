@@ -1,3 +1,5 @@
+![](https://i.imgur.com/KjNcSCC.jpg#vitrinedev)
+
 # Esse é um rework do meu primeiro código em C#
 
   Escrito em 23/01/2021 resolvi reescrever do zero e preservando manter o resultado exatamente igual ao que o antigo programa iria apresentar. Converti para uma DLL para poder ser utilizado em outros projetos.
